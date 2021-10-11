@@ -12,7 +12,7 @@ In my field of vision, Kubernetes and Docker are services that I love a lot in t
 <div>
   <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/javascript.svg"  height="40" width="40">
   <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/typescript.svg"  height="40" width="40">
-  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/bash.svg"  height="40" width="40">
+  <img src="https://github.com/nayvcake/nayvcake/blob/main/icons/bash.svg.png"  height="40" width="40">
   <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/rust.svg"  height="40" width="40">
   <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/go.svg"  height="40" width="40">
   <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/kotlin.svg"  height="40" width="40">

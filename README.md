@@ -1,5 +1,5 @@
-## Hi there 👋, i am Nayv
-I love programming and working with different programming languages and combining a good infrastructure and code base, cryptography that I am currently loving to work with in this area.
+## Hi there 👋, 
+I am Nayv, i love programming and working with different programming languages and combining a good infrastructure and code base, cryptography that I am currently loving to work with in this area.
 
 I'm currently working with projects that are closed/open source. You can check or rate, suggestion they are always open. [Projects](https://github.com/nayvcake?tab=repositories)
 
@@ -20,6 +20,8 @@ In my field of vision, Kubernetes and Docker are services that I love a lot in t
 </div>
 
 
+#### Contact
+📧 Email: iamnayv@hey.com
 
 <!--
 **nayvcake/nayvcake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

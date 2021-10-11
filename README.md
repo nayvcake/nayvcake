@@ -22,7 +22,7 @@ In my field of vision, Kubernetes and Docker are services that I love a lot in t
 
 
 #### Contact
-📧 Email: iamnayv@hey.com
+📧 Email:
 
 <!--
 **nayvcake/nayvcake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

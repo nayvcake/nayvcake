@@ -18,6 +18,9 @@ In my field of vision, Kubernetes and Docker are services that I love a lot in t
   <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/kotlin.svg"  height="40" width="40">
   <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/java.svg"  height="40" width="40">
   <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gradle.svg"  height="40" width="40">
+  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/react.svg"  height="40" width="40">
+  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/vue.svg"  height="40" width="40">
+  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/docker.svg"  height="40" width="40">
 </div>
 
 
